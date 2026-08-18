@@ -51,7 +51,9 @@ Gifts buy more balls or more speed, and a viewer who spends watches their own ba
 
 Castles can never be captured, so a team squeezed back to its keep is always one gift away from being back in the fight. Rounds end on a timer or the moment someone dominates the map, then restart with the rosters cleared so everyone types their number again. Ten teams, twelve languages, and every colour, name and castle image is yours to set.
 
-## Gameplay
+## What it looks like on stream
+
+<img src="stream.webp" alt="Territory War running on a TikTok Live" width="320">
 
 [Watch Territory War gameplay](https://cdn.livecade.io/games/territory-war.mp4)
 
